@@ -14,8 +14,8 @@ Expanding my expertise in backend engineering and RESTful API design using Djang
 
 🔭 Featured Projects
 
-DairyDirect: A Python/Django-based e-commerce platform designed to facilitate direct sales for farmers.
+InvoiceFlow : Automated and AI integrated invoice managing app
 
 Smart Irrigation & Disease Prediction System: An IoT and Machine Learning integrated system for automated agricultural decision-making.
 
-Budget Buddy: A personal finance management web application tracking income and expenses using JavaScript and Local Storage.
+DairyDirect: A Python/Django-based e-commerce platform designed to facilitate direct sales for farmers.
